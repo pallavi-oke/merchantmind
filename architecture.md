@@ -52,4 +52,4 @@ The dashboard utilizes a **Voice-to-Viz** agent that:
 - Applies a consistent high-contrast dark-mode theme to all Plotly outputs.
 
 ---
-*Last Updated: April 29, 2026 (6:15 PM PST)*
+*Last Updated: April 30, 2026*

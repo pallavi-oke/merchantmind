@@ -31,4 +31,11 @@ Sentinel uses a polyglot agentic strategy, routing tasks to the best-suited mode
 - **Data Engine**: Pandas-driven synthetic rewards database
 
 ---
-*Last Updated: April 29, 2026 (6:15 PM PST)*
+
+### 🎨 Presentation Assets
+The repository includes high-fidelity assets for professional demonstrations:
+- `sentinel_slide.html`: An interactive, browser-rendered presentation slide featuring crisp typography and dark-mode styling.
+- `nanobanana_flowchart_dark_mode.png`: A high-contrast architectural diagram optimized for video editing overlays.
+
+---
+*Last Updated: April 30, 2026*
