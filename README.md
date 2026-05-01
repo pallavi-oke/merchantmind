@@ -1,5 +1,7 @@
 # Sentinel Vantage: Voice-First Rewards Governance
 
+![Sentinel Vantage Dashboard](dashboard_screenshot.png)
+
 Sentinel Vantage is a high-fidelity pilot demonstrating the next generation of AI-driven corporate rewards management. It moves beyond traditional dashboards by combining **Voice-First Agentic Reasoning** with **Hard-Enforced Governance Guardrails**.
 
 ### 🎥 The Experience
