@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+.venv/
+env/
+venv/
+dist/
+build/
+*.log
+data/synthetic/
+victoria_analyst_avatar_*.png
+mike_sheriff_avatar_*.png
+*.wav
+*.mp3
+scratch/

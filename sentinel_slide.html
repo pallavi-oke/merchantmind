@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentinel Vantage Architecture</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #000000;
+            color: #ffffff;
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 60px 40px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .container {
+            max-width: 1400px;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .title {
+            font-size: 3.5rem;
+            font-weight: 800;
+            margin: 0 0 12px 0;
+            background: linear-gradient(135deg, #E0E7FF, #60A5FA);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            letter-spacing: -1px;
+        }
+        .subtitle {
+            font-size: 1.5rem;
+            color: #9CA3AF;
+            font-weight: 400;
+            margin: 0;
+            letter-spacing: 0.5px;
+        }
+        .capabilities {
+            background-color: #000000;
+            border: 1px solid #4B5563; /* Clean, simple gray border */
+            border-radius: 4px; /* Straighter edges */
+            padding: 35px 50px;
+            margin-bottom: 50px;
+            width: 100%;
+            max-width: 1000px;
+            /* Removed the dense shadows and background gradient */
+        }
+        .capabilities-title {
+            font-size: 1.8rem;
+            font-weight: 600;
+            margin-top: 0;
+            margin-bottom: 25px;
+            color: #F3F4F6;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .capability-item {
+            font-size: 1.25rem;
+            line-height: 1.6;
+            margin-bottom: 16px;
+            color: #D1D5DB;
+            display: flex;
+            align-items: baseline;
+            gap: 12px;
+        }
+        .capability-item:last-child {
+            margin-bottom: 0;
+        }
+        .bullet {
+            color: #3B82F6;
+            font-size: 1.5rem;
+            line-height: 1;
+        }
+        .highlight {
+            color: #60A5FA;
+            font-weight: 600;
+        }
+        .flowchart-container {
+            text-align: center;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+        .flowchart-img {
+            max-width: 70%; /* Reduced size of the flowchart */
+            height: auto;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1 class="title">🛡️ Sentinel Vantage</h1>
+            <p class="subtitle">Next-Generation Incentive & Predictive Analytics Platform</p>
+        </div>
+
+        <div class="capabilities">
+            <h2 class="capabilities-title">🚀 Core Platform Capabilities</h2>
+            <div class="capability-item">
+                <span class="bullet">•</span>
+                <span><span class="highlight">Predictive Intelligence:</span> Forecasts budget depletion and redemption velocity in real-time.</span>
+            </div>
+            <div class="capability-item">
+                <span class="bullet">•</span>
+                <span><span class="highlight">Uncompromising Privacy:</span> Acts as an active firewall, intercepting cross-team PII breaches.</span>
+            </div>
+            <div class="capability-item">
+                <span class="bullet">•</span>
+                <span><span class="highlight">Agentic Reasoning:</span> Powered by a polyglot dual-LLM architecture.</span>
+            </div>
+        </div>
+
+        <div class="flowchart-container">
+            <img src="nanobanana_flowchart_dark_mode.png" alt="Sentinel Flowchart" class="flowchart-img">
+        </div>
+    </div>
+</body>
+</html>

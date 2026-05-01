@@ -1,0 +1,12 @@
+streamlit
+pandas
+google-generativeai
+python-dotenv
+faker
+plotly
+pydantic
+pyyaml
+anthropic
+presidio-analyzer
+presidio-anonymizer
+spacy

@@ -1,0 +1,5 @@
+cohort_size_threshold: 50
+llm_contextual_confidence_floor: 0.7
+peer_cohort_threshold: 20
+significance_min_n: 30
+significance_p_value_floor: 0.1

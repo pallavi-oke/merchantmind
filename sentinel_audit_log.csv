@@ -1,0 +1,20 @@
+Timestamp,Manager,Query,Verdict,RuleID,Reason
+2026-04-29 15:30:12,David Chen,Why did spending surge?,PASS,PASS,"Query asks about aggregate spending data, not about any specific individual. No personal information is being requested."
+2026-04-29 15:31:15,David Chen,Why did spending surge?,PASS,PASS,"Query asks about aggregate spending data, not about any specific individual. No personal information requested."
+2026-04-29 15:31:52,David Chen,Why did spending surge?,PASS,PASS,"Query asks about spending patterns, not about any specific individual. This is an aggregate/general business question that does not target personal information of anyone inside or outside the team."
+2026-04-29 15:41:19,David Chen,Why is there a spending volatility,PASS,G-006,
+2026-04-29 15:42:02,David Chen,Why is there a spending volatility,PASS,G-006,
+2026-04-29 15:42:32,David Chen,Why is there a spending volatility,PASS,G-006,
+2026-04-29 15:43:14,David Chen,Why is there a spending volatility,PASS,G-006,
+2026-04-29 15:43:45,David Chen,Why is there a spending volatility,PASS,G-006,
+2026-04-29 15:44:17,David Chen,Why is there a spending volatility,PASS,G-006,
+2026-04-29 15:44:58,David Chen,Can i get detailed rewards information for Jordan?,PASS,G-006,
+2026-04-29 15:46:11,David Chen,Can i get detailed rewards information for Jordan?,PASS,G-006,
+2026-04-29 15:47:13,Sarah Jenkins,Can i get detailed rewards information for Jordan?,PASS,G-006,
+2026-04-29 15:47:41,David Chen,Can i get detailed rewards information for Jordan?,PASS,G-006,
+2026-04-29 15:55:57,David Chen,Why is there a spending volatility,PASS,G-006,
+2026-04-29 15:56:21,David Chen,Can i get detailed rewards information for Jordan?,PASS,G-006,
+2026-04-29 15:56:38,David Chen,Can i get detailed rewards information for Jordan?,PASS,G-006,
+2026-04-29 15:57:16,David Chen,Why is there a spending volatility,PASS,G-006,
+2026-04-29 15:57:39,David Chen,Why is there a spending volatility,PASS,G-006,
+2026-04-29 15:58:13,David Chen,Can i get detailed rewards information for Jordan?,PASS,G-006,

@@ -1,0 +1,70 @@
+/* Sentinel Premium Dashboard Styles */
+
+.main {
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+    color: #f8fafc;
+}
+
+.stApp {
+    background: #0f172a;
+}
+
+/* Custom Card Effect */
+.card {
+    background: rgba(30, 41, 59, 0.7);
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+    padding: 25px;
+    border: 1px solid rgba(99, 102, 241, 0.2);
+    margin-bottom: 20px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Gradient Buttons */
+.stButton>button {
+    border-radius: 12px;
+    background: linear-gradient(90deg, #6366f1 0%, #a855f7 100%);
+    color: white;
+    border: none;
+    padding: 12px 28px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.stButton>button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(99, 102, 241, 0.4);
+}
+
+/* Metric Boxes */
+.metric-box {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    padding: 20px;
+    border-left: 4px solid #6366f1;
+    transition: all 0.3s ease;
+}
+
+.metric-box:hover {
+    background: rgba(255, 255, 255, 0.08);
+}
+
+/* Governance Panel */
+.trust-panel {
+    background: rgba(15, 23, 42, 0.8);
+    border-radius: 15px;
+    padding: 20px;
+    border: 1px solid #10b981;
+    margin-top: 20px;
+}
+
+/* Typography */
+h1, h2, h3 {
+    color: #f1f5f9;
+    font-family: 'Outfit', 'Inter', sans-serif;
+}
+
+.highlight {
+    color: #a855f7;
+    font-weight: 700;
+}
